@@ -1,10 +1,4 @@
-'''
-@Description:
-@Autor: YangZeMiao
-@Date: 2019-12-05 08:33:24
-@LastEditors: YangZeMiao
-@LastEditTime: 2019-12-17 17:48:17
-'''
+
 """testdj URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
